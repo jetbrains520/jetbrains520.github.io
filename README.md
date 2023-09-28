@@ -9,8 +9,6 @@ https://www.jetbrains.com/zh-cn/
 
 https://jetbrains520.github.io
 
-搜索 "II" 是IDEA
-
 # 源自
 
 热佬网址
